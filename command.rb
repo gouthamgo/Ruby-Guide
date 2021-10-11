@@ -35,7 +35,26 @@ print var.upcase
 # Method to conver all letters to lowercase
 print var.downcase 
 
+# Strings in Ruby
 
+
+# String 1
+s1 = 'I am a single string!'  /single quotes
+ 
+# String 2
+s2 = "I am a double string!" //double quotes
+
+
+# Ruby string interpolation
+In Ruby, string interpolation is used to insert the result of Ruby code into a string.
+
+age = 50
+ 
+print "my name is Gem, and I am #{age} years old"
+# "my name is Gem, and I am 50 years old"
+
+
+# gets.chomp => takes the user input and deletes the next line
 
 
 
