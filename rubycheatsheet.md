@@ -24,3 +24,22 @@ var = 92
 12.0.to_i #=> 12
 11.9.to_i #=> 11
 ```
+
+## Use Put and Print to display the text in the console
+
+## The general syntax of an if statement :
+```
+
+if 1 < 2
+  puts "Jump and go"
+end
+
+=================
+
+if that_is == true
+  puts "yay"
+else
+  puts "Nay!"
+end
+
+```
