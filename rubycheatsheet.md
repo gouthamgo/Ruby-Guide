@@ -43,3 +43,20 @@ else
 end
 
 ```
+## <=> (spaceship operator) returns the following:
+```
+-1 if the value on the left is less than the value on the right;
+0 if the value on the left is equal to the value on the right; and
+1 if the value on the left is greater than the value on the right.
+```
+
+## Unless statements
+- An unless statement works in the opposite way as an if statement: it only processes the code in the block if the expression evaluates to false. There isn’t much more to it.
+
+## ternary operator
+
+```
+syntax is conditional statement ? <execute if true> : <execute if false>
+```
+
+
