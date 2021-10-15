@@ -7,3 +7,7 @@
 **Basics**
 
 **Loops**
+
+
+
+-Ruby has much  more to offer and we add as we go along 
